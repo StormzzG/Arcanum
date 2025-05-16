@@ -1,0 +1,105 @@
+body {
+    font-family: 'Montserrat';
+    height: 4300px;
+}
+
+.header {
+    width: 100%;
+    height: 170px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: white;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.header-texts {
+    margin-left: 10px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.arcanum-box {
+    margin-left: 150px;
+}
+
+.arcanum-logo {
+    width: 300px;
+    background-color: transparent;
+}
+
+.middle-section {
+    margin-left: 150px;
+}
+
+.right-section {
+    margin-left: 300px;
+}
+
+.icons {
+    width: 29px;
+    height: 26px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.logo-header {
+    border: solid;
+    background-color: #FF0800;
+    color: white;
+    height: 80px;
+    font-size: 40px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    padding-left: 200px;
+}
+
+.notice-header {
+    margin-left: 50px;
+}
+
+.text-links {
+    text-decoration: none;
+    color: black;
+}
+
+.renders-on-renders {
+    width: 900px;
+    height: 450px;
+    border: solid;
+}
+
+.renders-on-renders-2 {
+    width: 1200px;
+    height: 640px;
+    border: solid;
+}
+
+.photo-render-container {
+    margin-top: 40px;
+}
+
+.photo-render-container-2 {
+    margin-left: 300px;
+    margin-top: 40px;
+}
+
+.video-render {
+    width: 1000px;
+    padding-top: 0;
+    padding-bottom: 0;
+    border: solid;
+}
+
+.video-div {
+    margin-left: 480px;
+    margin-top: 40px;
+}
+
+.video-div-2 {
+    margin-top: 40px;
+}
